@@ -1,9 +1,5 @@
 ### Hello! 👋
 
-**Lubraca/Lubraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working in python codes that apply to de financial market, economics topis and also some data analyses about anything that looks interesting!
 - 🌱 I’m currently learning more about Data Science in a Code Academy professional course, half of the way is already done! 
 - 👯 I’m looking to collaborate on projects do analyse data and to create automation for financial analyses, more related do quantitative economics.
